@@ -1,3 +1,5 @@
+# Siddhesh Ballal
+
 morse_dir = {
     ' ' : '   ',
     'a' : '.-',
